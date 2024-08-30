@@ -1,3 +1,4 @@
+[![example](https://github.com/ilya-ship-it/hexlet-ci-app/actions/workflows/actions.yml/badge.svg)](https://github.com/ilya-ship-it/hexlet-ci-app/actions/workflows/actions.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
